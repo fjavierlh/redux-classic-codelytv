@@ -1,0 +1,2 @@
+export const CHECKOUT_CLICKED = 'CHECKOUT_CLICKED';
+export const ADD_TO_CART = "ADD_TO_CART";
